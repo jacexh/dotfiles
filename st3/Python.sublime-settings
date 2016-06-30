@@ -4,12 +4,13 @@
 
     // tabs and whitespace
     "auto_indent": true,
-    "rulers": [79],
+    "rulers": [120],
     "smart_indent": true,
     "tab_size": 4,
     "trim_automatic_white_space": true,
     "use_tab_stops": true,
     "word_wrap": false,
     "wrap_width": 80,
-    "auto_complete": true
+    "auto_complete": true,
+    "pep8_ignore":["E501"]
 }
